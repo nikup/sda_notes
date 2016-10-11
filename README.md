@@ -39,3 +39,5 @@ Vlad Timofeev - [SDA_HW](https://github.com/timadevelop/SDA_HW)
 Yavor Yanchev - [https://github.com/YavorYanchev/sda_notes](https://github.com/YavorYanchev/sda_notes)
 
 Gergana Hristova - [https://github.com/gerganahristova5/sda](https://github.com/gerganahristova5/sda)
+
+Ivo Yakov - https://github.com/Fluctuationqt/SDA-Homework
