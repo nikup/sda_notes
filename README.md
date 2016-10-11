@@ -13,3 +13,5 @@ Atanas Semerdzhiev - [https://github.com/semerdzhiev/sdp-samples](https://github
 Kalin Georgiev - [https://github.com/stranxter/lecture-notes](https://github.com/stranxter/lecture-notes)
 
 # Student Repositories
+
+Ivo Yakov - https://github.com/Fluctuationqt/SDA-Homework
