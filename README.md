@@ -29,3 +29,5 @@ Stefani Nikolova - [https://github.com/stefani-nik/sda_notes](https://github.com
 Yoana Georgieva - [https://github.com/georgievayo/SDA](https://github.com/georgievayo/SDA)
 
 Alexander Yordanov - https://github.com/Alexander96/DSA-FMI
+
+Yoana Stoyanova [https://github.com/YoanaStoyanova/SDA](https://github.com/YoanaStoyanova/SDA)
