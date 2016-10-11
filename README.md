@@ -21,3 +21,5 @@ Hristina Ilieva - [https://github.com/Xristinaaaa/SDA](https://github.com/Xristi
 Venislava Boeva - [https://github.com/venislava/sda](https://github.com/venislava/sda)
 
 Ivan Mladenov - [https://github.com/cwetanow/Data-Structures-Algorithms](https://github.com/cwetanow/Data-Structures-Algorithms)
+
+Petia Kyurkchiyska - [https://github.com/petia5ia/DSA-FMI] (https://github.com/petia5ia/DSA-FMI)
