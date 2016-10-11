@@ -17,3 +17,5 @@ Kalin Georgiev - [https://github.com/stranxter/lecture-notes](https://github.com
 Yoana Georgieva - [https://github.com/georgievayo/SDA](https://github.com/georgievayo/SDA)
 
 Hristina Ilieva - [https://github.com/Xristinaaaa/SDA](https://github.com/Xristinaaaa/SDA)
+
+Venislava Boeva - [https://github.com/venislava/sda](https://github.com/venislava/sda)
