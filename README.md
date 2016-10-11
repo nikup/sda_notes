@@ -23,3 +23,5 @@ Venislava Boeva - [https://github.com/venislava/sda](https://github.com/venislav
 Ivan Mladenov - [https://github.com/cwetanow/Data-Structures-Algorithms](https://github.com/cwetanow/Data-Structures-Algorithms)
 
 Ivan Ivanov https://github.com/ivanov961/SDA
+
+Stefani Nikolova - [https://github.com/stefani-nik/sda_notes](https://github.com/stefani-nik/sda_notes)
