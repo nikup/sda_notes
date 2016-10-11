@@ -41,3 +41,5 @@ Yavor Yanchev - [https://github.com/YavorYanchev/sda_notes](https://github.com/Y
 Gergana Hristova - [https://github.com/gerganahristova5/sda](https://github.com/gerganahristova5/sda)
 
 Ivo Yakov - https://github.com/Fluctuationqt/SDA-Homework
+
+Dragomir Angelov - https://github.com/daangelov/SDA
