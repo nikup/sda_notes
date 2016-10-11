@@ -18,3 +18,5 @@ Kalin Georgiev - [https://github.com/stranxter/lecture-notes](https://github.com
 # Student Repositories
 Yoana Georgieva - [https://github.com/georgievayo/SDA](https://github.com/georgievayo/SDA)
 >>>>>>> 8bf1a5f897623c50a08d490f00cec793c40a8690
+
+Kristiyan Vachev - [https://github.com/KristiyanVachev/SDA] (https://github.com/KristiyanVachev/SDA)
