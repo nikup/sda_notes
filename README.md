@@ -45,3 +45,5 @@ Ivo Yakov - https://github.com/Fluctuationqt/SDA-Homework
 Dragomir Angelov - https://github.com/daangelov/SDA
 
 Nikolay Kosev - https://github.com/olorin01/dsa-fmi-2016
+
+Petia Kyurkchiyska - [https://github.com/petia5ia/DSA-FMI](https://github.com/petia5ia/DSA-FMI)
