@@ -37,3 +37,5 @@ Simona Tsenova - [https://github.com/simonaTsenova/homeworks-SDA](https://github
 Vlad Timofeev - [SDA_HW](https://github.com/timadevelop/SDA_HW)
 
 Yavor Yanchev - [https://github.com/YavorYanchev/sda_notes](https://github.com/YavorYanchev/sda_notes)
+
+Gergana Hristova - [https://github.com/gerganahristova5/sda](https://github.com/gerganahristova5/sda)
