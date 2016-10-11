@@ -14,4 +14,4 @@ Kalin Georgiev - [https://github.com/stranxter/lecture-notes](https://github.com
 
 # Student Repositories
 
-Yavor Yanchev - [https://github.com/YavorYanchev/SDA_fmi] (https://github.com/YavorYanchev/SDA_fmi)
+Yavor Yanchev - [https://github.com/YavorYanchev/sda_notes] (https://github.com/YavorYanchev/sda_notes)
