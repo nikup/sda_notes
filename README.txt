@@ -1,0 +1,1 @@
+Repository for the SDA course in FMI.
