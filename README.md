@@ -13,6 +13,7 @@ Atanas Semerdzhiev - [https://github.com/semerdzhiev/sdp-samples](https://github
 Kalin Georgiev - [https://github.com/stranxter/lecture-notes](https://github.com/stranxter/lecture-notes)
 
 # Student Repositories
+<<<<<<< HEAD
 
 Yoana Georgieva - [https://github.com/georgievayo/SDA](https://github.com/georgievayo/SDA)
 
@@ -33,3 +34,6 @@ Alexander Yordanov - https://github.com/Alexander96/DSA-FMI
 Yoana Stoyanova [https://github.com/YoanaStoyanova/SDA](https://github.com/YoanaStoyanova/SDA)
 
 Simona Tsenova - [https://github.com/simonaTsenova/homeworks-SDA](https://github.com/simonaTsenova/homeworks-SDA)
+=======
+Vlad Timofeev - [SDA_HW](https://github.com/timadevelop/SDA_HW)
+>>>>>>> 2ac4fab4a87495db474b286fe6781c01d647170d
