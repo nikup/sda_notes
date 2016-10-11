@@ -20,4 +20,4 @@ Hristina Ilieva - [https://github.com/Xristinaaaa/SDA](https://github.com/Xristi
 
 Venislava Boeva - [https://github.com/venislava/sda](https://github.com/venislava/sda)
 
-Kristiyan Vachev - [https://github.com/KristiyanVachev/sda_notes] (https://github.com/KristiyanVachev/sda_notes)
+Kristiyan Vachev - [https://github.com/KristiyanVachev/sda_notes] (https://github.com/KristiyanVachev/sda_notes) 
