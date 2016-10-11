@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Repository for the SDA course in FMI.
+=======
 # Resources
 
 Codecademy's Git tutorial - [https://www.codecademy.com/learn/learn-git](https://www.codecademy.com/learn/learn-git)
@@ -13,6 +16,7 @@ Atanas Semerdzhiev - [https://github.com/semerdzhiev/sdp-samples](https://github
 Kalin Georgiev - [https://github.com/stranxter/lecture-notes](https://github.com/stranxter/lecture-notes)
 
 # Student Repositories
+<<<<<<< HEAD
 
 Alexander Yordanov - https://github.com/Alexander96/DSA-FMI
 
@@ -50,3 +54,6 @@ Yoana Georgieva - [https://github.com/georgievayo/SDA](https://github.com/georgi
 
 Yoana Stoyanova [https://github.com/YoanaStoyanova/SDA](https://github.com/YoanaStoyanova/SDA)
 >>>>>>> 246dee3a012d1d1decb4b4dc01ed31df771c6062
+=======
+Yoana Georgieva - [https://github.com/georgievayo/SDA](https://github.com/georgievayo/SDA)
+>>>>>>> 8bf1a5f897623c50a08d490f00cec793c40a8690
