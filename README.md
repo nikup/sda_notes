@@ -13,3 +13,4 @@ Atanas Semerdzhiev - [https://github.com/semerdzhiev/sdp-samples](https://github
 Kalin Georgiev - [https://github.com/stranxter/lecture-notes](https://github.com/stranxter/lecture-notes)
 
 # Student Repositories
+Venislava Boeva - [https://github.com/venislava/sda](https://github.com/venislava/sda)
