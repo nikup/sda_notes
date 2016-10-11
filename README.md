@@ -31,3 +31,5 @@ Yoana Georgieva - [https://github.com/georgievayo/SDA](https://github.com/georgi
 Alexander Yordanov - https://github.com/Alexander96/DSA-FMI
 
 Yoana Stoyanova [https://github.com/YoanaStoyanova/SDA](https://github.com/YoanaStoyanova/SDA)
+
+Simona Tsenova - [https://github.com/simonaTsenova/homeworks-SDA](https://github.com/simonaTsenova/homeworks-SDA)
