@@ -13,4 +13,7 @@ Atanas Semerdzhiev - [https://github.com/semerdzhiev/sdp-samples](https://github
 Kalin Georgiev - [https://github.com/stranxter/lecture-notes](https://github.com/stranxter/lecture-notes)
 
 # Student Repositories
+
 Yoana Georgieva - [https://github.com/georgievayo/SDA](https://github.com/georgievayo/SDA)
+
+Hristina Ilieva - [https://github.com/Xristinaaaa/SDA](https://github.com/Xristinaaaa/SDA)
