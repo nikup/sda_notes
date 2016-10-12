@@ -16,6 +16,8 @@ Kalin Georgiev - [https://github.com/stranxter/lecture-notes](https://github.com
 
 Alexander Yordanov - https://github.com/Alexander96/DSA-FMI
 
+Daniel Isov - [https://github.com/danielrss/SDA-FMI](https://github.com/danielrss/SDA-FMI)
+
 Dragomir Angelov - https://github.com/daangelov/SDA
 
 Gergana Hristova - [https://github.com/gerganahristova5/sda](https://github.com/gerganahristova5/sda)
