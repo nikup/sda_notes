@@ -13,3 +13,4 @@ Atanas Semerdzhiev - [https://github.com/semerdzhiev/sdp-samples](https://github
 Kalin Georgiev - [https://github.com/stranxter/lecture-notes](https://github.com/stranxter/lecture-notes)
 
 # Student Repositories
+Simona Tsenova - [https://github.com/simonaTsenova/homeworks-SDA](https://github.com/simonaTsenova/homeworks-SDA)
