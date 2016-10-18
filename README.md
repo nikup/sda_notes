@@ -6,6 +6,8 @@ Github Pull Request - [https://yangsu.github.io/pull-request-tutorial/](https://
 
 Codewars - [https://www.codewars.com](https://www.codewars.com)
 
+Big O notation (complexity) - http://bigocheatsheet.com/
+
 # Github Repositories
 
 Atanas Semerdzhiev - [https://github.com/semerdzhiev/sdp-samples](https://github.com/semerdzhiev/sdp-samples)
