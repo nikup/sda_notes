@@ -32,7 +32,9 @@ Ivan Mladenov - [https://github.com/cwetanow/Data-Structures-Algorithms](https:/
 
 Ivo Yakov - https://github.com/Fluctuationqt/SDA-Homework
 
-Kristiyan Vachev - [https://github.com/KristiyanVachev/sda_notes](https://github.com/KristiyanVachev/sda_notes) 
+Kristiyan Vachev - [https://github.com/KristiyanVachev/sda_notes](https://github.com/KristiyanVachev/sda_notes)
+
+Nevena Gadzheva - https://github.com/xheartbeat/SDA
 
 Nikolay Kosev - https://github.com/olorin01/dsa-fmi-2016
 
